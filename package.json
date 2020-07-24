@@ -20,5 +20,9 @@
     "ora": "^4.0.5",
     "prompt": "^1.0.0"
   },
-  "bin": "index.js"
+  "bin": "index.js",
+  "repository": {
+    "type": "github.com",
+    "url": "https://github.com/cyber-start/create-cyber-server.git"
+  }
 }
